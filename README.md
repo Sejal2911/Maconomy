@@ -1,2 +1,0 @@
-# Maconomy
-hello word
